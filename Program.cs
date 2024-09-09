@@ -42,3 +42,9 @@ internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
+
+
+
+
+
+/*https://www.youtube.com/watch?v=dwMFg6uxQ0I Link to the video setting up the db and access to db + methods tied to db*/
